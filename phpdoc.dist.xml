@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdoc>
+  <parser>
+    <target>html</target>
+  </parser>
+  <transformer>
+    <target>html</target>
+  </transformer>
+  <files>
+    <directory>vendor/mirificus</directory>
+  </files>
+  <transformations>
+    <template name="responsive" />
+  </transformations>
+  <title>Mirificus</title>
+</phpdoc>
